@@ -115,7 +115,8 @@ $ ./a.out
 -------------------------------------------------------------------------------
 ##			6. 파일 시스템
 
-### - 가상 디스크(애뮬레이터)를 위한 간단한 파일 시스템 및 기본 파일 operation(create, delete, open, close, read, write, lseek) 구현
+### - 가상 디스크(애뮬레이터)를 위한 간단한 파일 시스템 및 
+###   기본 파일 operation(create, delete, open, close, read, write, lseek) 구현
 
 ```
 $ ./ssufs_test.sh
