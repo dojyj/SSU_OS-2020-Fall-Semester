@@ -39,7 +39,7 @@ disk.c disk1.c 실행 및 비교
 
 ### - Linux 내장 명령어를 실행하는 간단한 쉘 구현
 
-입력 (대화식 또는 배치식 모드로 을 읽고 입력을 토큰화)
+###### 입력 (대화식 또는 배치식 모드로 을 읽고 입력을 토큰화)
 ```
 $ ./ssu_shell : 대화식 모드
 $ ./ssu_shell commands.txt : 배치식 모드 
@@ -118,5 +118,5 @@ $ ./a.out
 ### - 가상 디스크(애뮬레이터)를 위한 간단한 파일 시스템 및 기본 파일 operation(create, delete, open, close, read, write, lseek) 구현
 
 ```
-./ssufs_test.sh
+$ ./ssufs_test.sh
 ```
