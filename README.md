@@ -1,7 +1,7 @@
 # SSU_OS-2020-Fall-Semester
 
 <p align="center">
-## 1. Linux의 명령어 실행을 통한 운영체제 기본 개념 이해
+<h2>## 1. Linux의 명령어 실행을 통한 운영체제 기본 개념 이해</h2>
 </p>
 
 ### - /proc 파일 시스템의 이해
