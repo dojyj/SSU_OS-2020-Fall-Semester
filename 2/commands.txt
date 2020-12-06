@@ -1,0 +1,5 @@
+cat ./commands.txt
+pwd
+ls -al
+sleep 10
+ps -aux | grep ssu | wc -l
